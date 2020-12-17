@@ -8,3 +8,4 @@ This notebook visualizes words using letter bigram data for the entire Google Bo
 To do:
 * Add bigram data for a different corpus
 * Handle self-loops ("oo," "aa," etc.)
+* Do a version with Markov sequences
