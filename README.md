@@ -1,5 +1,5 @@
 # Molecular Bigrams
-This notebook visualizes words using letter bigram data for the entire Google Books corpus. The thickness, or weight, of the edges that connect each node represents the frequency values for pairs of letters in a word. For now, if a word has a bigram that appears more than once, like "Mississippi," only one instance of the bigram gets counted as node. Node layout is handled automatically with Fruchterman-Reingold.
+These notebooks visualize words using letter bigram data. The thickness, or weight, of the edges that connect each node represents the frequency values for pairs of letters in a word. For now, if a word has a bigram that appears more than once, like "Mississippi," only one instance of the bigram gets counted as node. Node layout is handled automatically with Fruchterman-Reingold.
 
 Data available for:
 
