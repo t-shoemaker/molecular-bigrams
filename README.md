@@ -1,5 +1,5 @@
 # Molecular Bigrams
-These notebooks visualize words using letter bigram data. The thickness, or weight, of the edges that connect each node represents the frequency values for pairs of letters in a word. For now, if a word has a bigram that appears more than once, like "Mississippi," only one instance of the bigram gets counted as node. Node layout is handled automatically with Fruchterman-Reingold.
+These notebooks visualize words using letter bigram data. The thickness, or weight, of the edges that connect each node represents either the frequency values for pairs of letters in a word (molecularBigrams), or the probability that one letter will follow the next in a letter pair (markovBigrams). At the moment, the frequency notebook only registers one instance of self-looping bigrams ("oo", "aa", etc.). Node layout for frequency values is handled automatically with Fruchterman-Reingold; bigram probabilities are visualized with linear plots.
 
 Data available for:
 
