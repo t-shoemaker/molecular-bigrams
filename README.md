@@ -7,7 +7,7 @@ Data available for:
 * English words from Allison Parrish's [Gutenberg, dammit](https://github.com/aparrish/gutenberg-dammit) (includes words that appear more than 100 times)
 * [Wordfreq](https://github.com/LuminosoInsight/wordfreq) (sampling of 25,000 words)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://gesis.mybinder.org/binder/v2/gh/t-shoemaker/molecular-bigrams/346812623712f78e93ebfc759ee369e43058c108)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/t-shoemaker/molecular-bigrams/62d27fe472cd9024e9698cd183c9d68b937f3ff7)
 
 - - -
 
