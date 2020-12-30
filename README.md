@@ -4,7 +4,7 @@ These notebooks visualize words using letter bigram data. The thickness, or weig
 Data available for:
 
 * Google Books (from Peter Norvig's ["English Letter Frequency Counts"](https://norvig.com/mayzner.html))
-* English words in Project Gutenberg (via Allison Parrish's [Gutenberg, dammit](https://github.com/aparrish/gutenberg-dammit); includes words that appear more than 100 times)
+* English words from Allison Parrish's [Gutenberg, dammit](https://github.com/aparrish/gutenberg-dammit) (includes words that appear more than 100 times)
 * [Wordfreq](https://github.com/LuminosoInsight/wordfreq) (sampling of 25,000 words)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://gesis.mybinder.org/binder/v2/gh/t-shoemaker/molecular-bigrams/346812623712f78e93ebfc759ee369e43058c108)
